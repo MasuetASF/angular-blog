@@ -1,0 +1,88 @@
+@media screen and (max-width: 520px) and (min-width: 300px) {
+    .container-small-card{
+        /* border: white 2px solid; */
+        width: 90%;
+        margin-bottom: 15px;
+        margin-left: 20px;
+
+      }
+
+      .small-card-title{
+        font-size: 8px;
+      }
+      .small-card-photo > img{
+        width: 100px;
+        min-width: 100px;
+        margin-right: 20px;
+
+      }
+
+
+}
+
+
+@media screen and (max-width: 700px) and (min-width: 521px) {
+.container-small-card{
+  /* border: white 2px solid; */
+  width: 100%;
+  margin-bottom: 15px;
+  margin-left: 20px;
+
+}
+
+.small-card-photo > img{
+  width: 90px;
+  min-width: 90px;
+  margin-right: 20px;
+
+}
+
+.small-card-title{
+  font-size: 8px;
+}
+
+}
+
+
+@media screen and (max-width: 850px) and (min-width: 701px) {
+
+  .container-small-card{
+    /* border: white 2px solid; */
+    width: 100%;
+    margin-bottom: 15px;
+    margin-left: 20px;
+
+  }
+
+  .small-card-photo > img{
+    width: 90px;
+    min-width: 90px;
+    margin-right: 20px;
+
+  }
+
+  .small-card-title{
+    font-size: 12px;
+  }
+}
+
+@media screen and (max-width: 1000px) and (min-width: 851px){
+  .container-small-card{
+    /* border: white 2px solid; */
+    width: 100%;
+    margin-bottom: 15px;
+    margin-left: 20px;
+
+  }
+
+  .small-card-photo > img{
+    width: 90px;
+    min-width: 90px;
+    margin-right: 20px;
+  }
+
+  .small-card-title{
+    font-size: 12px;
+  }
+
+}
